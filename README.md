@@ -6,3 +6,7 @@ and it's automatically copy the target's folder into destination's folder,
 with the folder name + current date and time
 
 ![image](https://user-images.githubusercontent.com/91197642/212534087-d2e3f99f-f617-4182-a770-56453f9e95d1.png)
+
+download/copy script.bat and edit using notepad, 
+change the source and destination,
+don't use SPACE for the folder.
